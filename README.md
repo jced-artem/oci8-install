@@ -4,7 +4,7 @@ Installation requirements for php uopz library for ubuntu 14.04 trusty
 ### Install
 Via docker:
 ```
-docker build -t your/php -f Dockerfile
+docker build -t <your_name>/php -f Dockerfile
 docker-compose up -d
 ```
 or bash:
