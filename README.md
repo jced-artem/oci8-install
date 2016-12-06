@@ -1,4 +1,4 @@
-# oci8-install
+# oci8
 Installation requirements for php oci8 driver for ubuntu 14.04 trusty
 
 ### Install
