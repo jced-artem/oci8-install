@@ -1,5 +1,5 @@
-# uopz-install
-Installation requirements for php uopz library for ubuntu 14.04 trusty
+# oci8-install
+Installation requirements for php oci8 driver for ubuntu 14.04 trusty
 
 ### Install
 Via docker:
